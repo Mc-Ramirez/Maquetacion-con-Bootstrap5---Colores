@@ -2,3 +2,9 @@
   margin: 0%;
   padding: 0%;
 }
+.text1 {
+  color: #888;
+}
+.text2 {
+  color: palevioletred !important;
+}
